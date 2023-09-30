@@ -1,9 +1,3 @@
-<img width="418" alt="Screenshot 2023-10-01 at 00 43 24" src="https://github.com/Zafri7/Artificial-Intelligence/assets/103505826/6de45bfd-3365-4a41-8e00-abc1c112f409">## Assignment 1 Branch
-
-This is the assignment 1 branch of the repo for FIT3080. This branch contains all the code you need for assignment 1. To get started with the assignment please follow the instructuions or in the getting started guide to clone the repo. 
-If you are unsure on how to clone our repo and navigate to the relevant branch, or have trouble with the instructions below, please contact us over the Ed forum, in your class or during consultation hours. We're happy to help get you set up for the assignments!
-
----
 
 ## Clone this repository
 
